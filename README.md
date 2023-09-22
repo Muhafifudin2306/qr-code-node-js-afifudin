@@ -1,4 +1,4 @@
-# QR Qode Generator Using Node JS
+# QR Code Generator Using Node JS
 
 Hello guys, I hope you keep spirit new thing in your life !!
 
